@@ -9,7 +9,7 @@ const Untitled1 = () => {
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><Text style={styles.EDOFptUa}>Lorem ipsum…</Text></ScrollView>
+    }}><Text style={styles.EDOFptUa}> </Text></ScrollView>
     </SafeAreaView>;
 };
 
